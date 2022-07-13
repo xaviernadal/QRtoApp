@@ -12,9 +12,12 @@ import {
 export class HomePage {
 
   constructor() {}
+  ngOnInit() {
+    this.listenToDeepLinkOpen();
+  }
 
   listenToDeepLinkOpen() {
-    FirebaseDynamicLinks.addListener('deepLinkOpen', (data) => {
+    FirebaseDynamicLinks.addListener('deepLinkOpen', (data: { url: string }) => {
         console.log(data);
     });
     
