@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QRtoApp</string>
+    <string name="title_activity_main">QRtoApp</string>
+    <string name="package_name">io.ionic.qrtoapp</string>
+    <string name="custom_url_scheme">io.ionic.qrtoapp</string>
+</resources>

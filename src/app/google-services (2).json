@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308571982379",
+    "project_id": "qrtoapp",
+    "storage_bucket": "qrtoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308571982379:android:737d0ce4b44d43b3b4b86e",
+        "android_client_info": {
+          "package_name": "io.ionic.qrtoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308571982379-sm534n5v14r7hqdj2feluoqhd81i2qhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ5hbIxUBS6jsBGkm9h0ktYQ3TDztYWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308571982379-sm534n5v14r7hqdj2feluoqhd81i2qhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
