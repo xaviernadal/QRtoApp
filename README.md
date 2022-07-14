@@ -83,6 +83,14 @@ No cal seguir les instruccions que et dona sobre afegir Firebase a les apps, nom
 
 ## Codi + plugin dynamic links capacitor 
 Com que l'aplicació només rep el dynamic link, només es necessiten listeners.
+imports: 
+``` ts
+import {
+  FirebaseDynamicLinks,
+  LinkConfig,
+} from '@pantrist/capacitor-firebase-dynamic-links';
+```
+
 
  Exemple:
  ```ts
