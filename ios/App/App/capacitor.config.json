@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.qrtoapp",
+	"appName": "QRtoApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
