@@ -1,6 +1,6 @@
 import UIKit
 import Capacitor
-import FirebaseCore 
+import FirebaseCore
 import FirebaseDynamicLinks
 
 @UIApplicationMain
